@@ -36,6 +36,7 @@
     </div>
 
     <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+    <asp:Label ID="Label2" runat="server" Text="Label2"></asp:Label>
         <asp:ScriptManager ID="ScriptManager1" runat="server">
     </asp:ScriptManager>
     </form>
