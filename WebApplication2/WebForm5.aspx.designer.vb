@@ -41,13 +41,21 @@ Partial Public Class WebForm5
     Protected WithEvents Label1 As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
+<<<<<<< HEAD
     '''Label3 control.
+=======
+    '''Label2 control.
+>>>>>>> 32e8e45755e821d66e3e7d84dc68a325d160a191
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
+<<<<<<< HEAD
     Protected WithEvents Label3 As Global.System.Web.UI.WebControls.Label
+=======
+    Protected WithEvents Label2 As Global.System.Web.UI.WebControls.Label
+>>>>>>> 32e8e45755e821d66e3e7d84dc68a325d160a191
 
     '''<summary>
     '''ScriptManager1 control.
