@@ -11,8 +11,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
-        <ig:WebDataMenu ID="WebDataMenu1" runat="server">
+      <ig:WebDataMenu ID="WebDataMenu1" runat="server">
         <GroupSettings Orientation="Horizontal"/>
             <Items>
                 <ig:DataMenuItem Text="Root Item">
@@ -35,7 +34,7 @@
         </ig:WebDataMenu>
     
     </div>
-    <asp:ScriptManager ID="ScriptManager1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
     </asp:ScriptManager>
     </form>
 </body>
